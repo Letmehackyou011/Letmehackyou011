@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipesh Fuse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a student from Maharashtra, I was in 1st year of CSE 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmehackyou011&label=Profile%20views&color=0e75b6&style=flat" alt="letmehackyou011" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Hackathons India](https://github.com/Letmehackyou011/adhbhutbharat)
 
-- 🤝 I’m looking for help with [adhbhut india](https://github.com/Letmehackyou011/adhbhutbharat)
+- 🤝 I’m looking for help in project [adhbhut india](https://github.com/Letmehackyou011/adhbhutbharat)
 
 - 💬 Ask me about **Kali Linux, Parrot OS**
 
