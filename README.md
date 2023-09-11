@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/letmehackyou011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="letmehackyou011" height="30" width="40" /></a>
 <a href="https://instagram.com/thecoderxbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecoderxbro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technologyfor2u258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technologyfor2u" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@technologyfor2u258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technologyfor2u" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dipeshkailasfus1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipeshkailasfus1" height="30" width="40" /></a>
 </p>
 
