@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Kali Linux, Parrot OS**
 
-- 📫 How to reach me **gamerdynamite146@gmail.com**
+- 📫 How to reach me **Letmehackyou011@proton.me**
 
 - ⚡ Fun fact **I like musicial intruments**
 
