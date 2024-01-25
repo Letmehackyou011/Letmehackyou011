@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letmehackyou011" alt="letmehackyou011" /></a> </p>
 
-- 🔭 I’m currently working on [Hackathons project](https://github.com/Letmehackyou011/adhbhutbharat)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **C,React, SQL**
 
-- 👯 I’m looking to collaborate on [Hackathons India](https://github.com/Letmehackyou011/adhbhutbharat)
+- 👯 I’m looking to collaborate on Nothing
 
-- 🤝 I’m looking for help in project [adhbhut india](https://github.com/Letmehackyou011/adhbhutbharat)
+- 🤝 I’m looking for help in project Nothing
 
 - 💬 Ask me about **Kali Linux, Parrot OS**
 
