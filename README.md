@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipesh Fuse</h1>
+<h1 align="center">Hi 👋, I'm Deep </h1>
 <h3 align="center">I am a student from Maharashtra, I am in 1st year of CSE 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=letmehackyou011&label=Profile%20views&color=0e75b6&style=flat" alt="letmehackyou011" /> </p>
