@@ -1,5 +1,6 @@
-#🧏🏼‍♂️ About Me:
-I'm working on the Q-Map.<br>I'm learning Penetration testing.
+## 🧏🏼‍♂️ About Me:
+I'm working on the Q-Map.<br>I'm learning Penetration testing & Reverse Malware Engineering.
+I know about computer science. <br> I'm a Computer Science student.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thecodexdude) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-fuse-2868392a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Letmehackyou011@proton.me) 
